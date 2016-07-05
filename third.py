@@ -9,3 +9,4 @@ def filter_smaller_than_number(original_list, number):
       output.append(element)
   return output
 
+filter_smaller_than_number()

@@ -3,4 +3,4 @@
 # even, False otherwise
 # It should raise an error if the parameter is not a list
 
-
+list1 = [1, 2, 3, 4]
